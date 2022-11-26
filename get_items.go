@@ -3,7 +3,7 @@ package googleplay
 import (
    "bytes"
    "encoding/base64"
-   "github.com/8e4/rosso/protobuf"
+   "github.com/9hk/rosso/protobuf"
    "net/http"
    "os"
 )

@@ -2,8 +2,8 @@ package main
 
 import (
    "fmt"
-   "github.com/8e4/googleplay"
-   "github.com/8e4/rosso/http"
+   "github.com/9hk/googleplay"
+   "github.com/9hk/rosso/http"
    "io"
    "os"
    "time"

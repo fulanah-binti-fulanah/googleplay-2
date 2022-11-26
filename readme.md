@@ -24,10 +24,11 @@ go build
 
 ## Tool examples
 
-Before trying these examples, make sure the Google account you are using has
-logged into the Play&nbsp;Store at least once before. Also you need to have
-accepted the Google Play terms and conditions. Create a file containing token
-(`aas_et`) for future requests:
+Before trying to Sign in, make sure your IP is correct. You can test by logging
+into your Google account with a web browser. Also, make sure the Google account
+you are using has logged into the Play Store at least once before, using a
+physical or virtual Android device. Create a file containing token (`aas_et`)
+for future requests:
 
 ~~~
 googleplay -email EMAIL -password PASSWORD

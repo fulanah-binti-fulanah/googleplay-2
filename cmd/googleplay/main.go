@@ -2,7 +2,7 @@ package main
 
 import (
    "flag"
-   "github.com/8e4/googleplay"
+   "github.com/9hk/googleplay"
    "os"
 )
 

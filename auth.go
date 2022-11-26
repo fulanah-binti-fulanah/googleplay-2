@@ -2,9 +2,9 @@ package googleplay
 
 import (
    "bufio"
-   "github.com/8e4/rosso/crypto"
-   "github.com/8e4/rosso/http"
-   "github.com/8e4/rosso/protobuf"
+   "github.com/9hk/rosso/crypto"
+   "github.com/9hk/rosso/http"
+   "github.com/9hk/rosso/protobuf"
    "io"
    "net/url"
    "os"

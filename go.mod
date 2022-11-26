@@ -1,8 +1,8 @@
-module github.com/8e4/googleplay
+module github.com/9hk/googleplay
 
 go 1.19
 
-require github.com/8e4/rosso v1.0.0
+require github.com/9hk/rosso v1.0.0
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect

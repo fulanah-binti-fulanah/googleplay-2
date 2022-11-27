@@ -1,10 +1,8 @@
 # GooglePlay
 
 > I’m not really sure what the point of this video is, but I guess just be
-> generous.
->
-> Be kind to people, because you never know how much they might need it, or how
-> far it’ll go.
+> generous. Be kind to people, because you never know how much they might need
+> it, or how far it’ll go.
 >
 > [NakeyJakey (2018)](//youtube.com/watch?v=Cr0UYNKmrUs)
 
@@ -14,7 +12,13 @@ Download APK from Google Play or send API requests
 
 This module works with Windows, macOS or Linux. First, [download Go][2] and
 extract archive. Then download GooglePlay Zip and extract archive. Then
-navigate to `googleplay-master/cmd/googleplay`, and enter:
+navigate to:
+
+~~~
+googleplay-master/cmd/googleplay
+~~~
+
+and enter:
 
 ~~~
 go build
@@ -69,10 +73,30 @@ downloaded:
 googleplay -a com.google.android.youtube -v 1531188672
 ~~~
 
+## Contact
+
+<dl>
+   <dt>
+   email
+   </dt>
+   <dd>
+   srpen6@gmail.com
+   </dd>
+   <dt>
+   Discord
+   </dt>
+   <dd>
+   srpen6#6983
+   </dd>
+   <dd>
+   https://discord.com/invite/WWq6rFb8Rf
+   </dd>
+</dl>
+
 ## Money
 
-Software is not licensed for commercial use. If you wish to purchase a
-commercial license, or for other business questions, contact me:
+I only provide paid support for issues. Any issue without payment of at least
+9 USD will be closed immediately. Check the Sponsor this project on this page.
 
-- srpen6@gmail.com
-- Discord srpen6#6983
+Software is not licensed for commercial use. If you wish to purchase a
+commercial license, or for other business questions, contact me.
